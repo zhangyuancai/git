@@ -10,6 +10,7 @@ public class GitApplication {
 
         SpringApplication.run(GitApplication.class, args);
         System.out.println("第一次提交");
+        System.out.println("第二次提交");
     }
 
 }
