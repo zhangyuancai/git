@@ -16,6 +16,7 @@ public class GitApplication {
         System.out.println("第四次提交");
         System.out.println("hot-fix的第二次修改");
         System.out.println("第五次提交push");
+        System.out.println("第六次提交pull");
     }
 
 }
